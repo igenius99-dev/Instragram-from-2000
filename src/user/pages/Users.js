@@ -4,7 +4,7 @@ import UserList from "../components/UserList";
 const Users = () => {
   const USERS = [
     {
-      id: "1",
+      id: "u1",
       image:
         "https://cdn.motor1.com/images/mgl/zxxMzK/s1/2023-porsche-911-gt3-rs.webp",
       name: "yessirr",
