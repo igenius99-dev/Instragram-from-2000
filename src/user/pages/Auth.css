@@ -1,0 +1,25 @@
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  width: 90%;
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin-bottom: 1rem;
+}
+.centered-label {
+  display: block;
+  text-align: center;
+  font-weight: 900; /* Max font-weight for extra boldness */
+  font-size: x-large;
+}
+.switch-button {
+  text-align: center;
+  margin-top: 20px;
+}
